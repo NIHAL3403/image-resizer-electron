@@ -110,7 +110,7 @@ npx mocha test/unit/**/*.js
 ### Application Screenshots :
 
 ![Minimum]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.15.17 PM.png")
-![Maximum]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.23.28 PM.png")
+![Maximum]("screenshots/Screenshot3.png")
 ![Application Screenshot]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.20.33 PM.png")
 ![Image Storage]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.57.33 PM.png")
 ![Screenshot]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.59.24 PM.png")
