@@ -3,7 +3,7 @@
 Electron application that allows you to select an image and easily change the width and/or height.
 
 <div style="display: flex; justify-content: center">
-<img src="/Users/poornachandratejaswibh/Desktop" width="400" />
+<img src="/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.55.50 PM.png" width="400" />
 </div>
 
 ## Table of Contents
@@ -100,12 +100,20 @@ npx mocha test/unit/**/*.js
 
 ### Application Running : 
 
-![Application Running](/Users/poornachandratejaswibh/Desktop)
+![Application Running](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.24.53 PM.png)
 
 
 ### Unit Test Results :
 
-![Unit Test Results](/Users/poornachandratejaswibh/Downloads)
+![Unit Test Results](/Users/poornachandratejaswibh/Downloads/WhatsApp Image 2024-06-23 at 20.37.17.jpeg)
+
+### Application Screenshots :
+
+![Minimum](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.15.17 PM.png)
+![Maximum](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.23.28 PM.png)
+![Application Screenshot](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.20.33 PM.png)
+![Image Storage](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.57.33 PM.png)
+![Screenshot](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.59.24 PM.png)
 
 ## License
 
