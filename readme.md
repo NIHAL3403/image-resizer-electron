@@ -100,8 +100,8 @@ npx mocha test/unit/**/*.js
 
 ### Application Running : 
 
-![Application Running]("image-resizer-electron/screenshots
-/Screenshot2.png")
+![Application Running](image-resizer-electron/screenshots
+/Screenshot2.png)
 
 
 ### Unit Test Results :
