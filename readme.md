@@ -111,26 +111,22 @@ npx mocha test/unit/**/*.js
 </div>
 
 ### Application Screenshots :
-
+## Minimum
 <div style="display: flex; justify-content: center">
 <img src="screenshots/Screenshot5.png" width="600" />
 </div>
 
+## Maximum
 <div style="display: flex; justify-content: center">
 <img src="screenshots/Screenshot3.png" width="600" />
 </div>
 
-<div style="display: flex; justify-content: center">
-<img src="screenshots/Screenshot4.png" width="600" />
-</div>
-
+## Storage
 <div style="display: flex; justify-content: center">
 <img src="screenshots/Screenshot7.png" width="600" />
 </div>
 
-<div style="display: flex; justify-content: center">
-<img src="screenshots/Screenshot6.png" width="600" />
-</div>
+
 
 
 ## License
