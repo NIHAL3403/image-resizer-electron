@@ -3,7 +3,7 @@
 Electron application that allows you to select an image and easily change the width and/or height.
 
 <div style="display: flex; justify-content: center">
-<img src="/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.55.50 PM.png" width="400" />
+<img src="screenshots/Screenshot1.png" width="400" />
 </div>
 
 ## Table of Contents
