@@ -100,7 +100,8 @@ npx mocha test/unit/**/*.js
 
 ### Application Running : 
 
-![Application Running](/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.24.53 PM.png)
+![Application Running]("image-resizer-electron/screenshots
+/Screenshot2.png")
 
 
 ### Unit Test Results :
