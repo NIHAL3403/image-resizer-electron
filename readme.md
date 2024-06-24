@@ -100,26 +100,38 @@ npx mocha test/unit/**/*.js
 
 ### Application Running : 
 
-![Application Running](image-resizer-electron/screenshots
-/Screenshot2.png)
 <div style="display: flex; justify-content: center">
-<img src="screenshots/Screenshot1.png" width="600" />
+<img src="screenshots/Screenshot2.png" width="600" />
 </div>
 
 ### Unit Test Results :
 
-![Unit Test Results](/Users/poornachandratejaswibh/Downloads/WhatsApp Image 2024-06-23 at 20.37.17.jpeg)
+<div style="display: flex; justify-content: center">
+<img src="screenshots/WhatsApp.jpeg" width="600" />
+</div>
 
 ### Application Screenshots :
 
-![Minimum]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.15.17 PM.png")
-![Maximum]("screenshots/Screenshot3.png")
+<div style="display: flex; justify-content: center">
+<img src="screenshots/Screenshot5.png" width="600" />
+</div>
+
 <div style="display: flex; justify-content: center">
 <img src="screenshots/Screenshot3.png" width="600" />
 </div>
-![Application Screenshot]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 7.20.33 PM.png")
-![Image Storage]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.57.33 PM.png")
-![Screenshot]("/Users/poornachandratejaswibh/Desktop/Screenshot 2024-06-23 at 6.59.24 PM.png")
+
+<div style="display: flex; justify-content: center">
+<img src="screenshots/Screenshot4.png" width="600" />
+</div>
+
+<div style="display: flex; justify-content: center">
+<img src="screenshots/Screenshot7.png" width="600" />
+</div>
+
+<div style="display: flex; justify-content: center">
+<img src="screenshots/Screenshot6.png" width="600" />
+</div>
+
 
 ## License
 
