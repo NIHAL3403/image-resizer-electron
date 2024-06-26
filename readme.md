@@ -130,7 +130,7 @@ npx mocha test/unit/**/*.js
 ### Test Results :
 
 <div style="display: flex; justify-content: center">
-<img src="screenshots/Screenshot7.png" width="600" />
+<img src="screenshots/image_results.png" width="600" />
 </div>
 
 
